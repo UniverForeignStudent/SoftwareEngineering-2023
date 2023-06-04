@@ -1,0 +1,909 @@
+
+<!DOCTYPE html>
+
+<head>
+    <meta charset="utf-8">
+    
+<meta name="SiteName" content="智慧宝安国际机场"/>
+<meta name="SiteDomain" content="https://www.szairport.com"/>
+<meta name="SiteIDCode" content="N000014366"/>
+<meta name="ColumnName" content="购票" />
+<meta name="ColumnDescription" content=""/>
+<meta name="ColumnKeywords" content=""/>
+<meta name="ColumnType" content=""/>
+
+<meta name="others" content="页面生成时间 2022-08-26 08:41:54" />
+<title>
+    购票-智慧宝安国际机场
+    </title>
+    <meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1" name="viewport" />
+    <link rel="stylesheet" href="/szairport/xhtml/css/common.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/szairport/xhtml/css/swiper.min.css" />
+    <link rel="stylesheet" href="/szairport/xhtml/css/aos.css" />
+    <link rel="stylesheet" href="/szairport/xhtml/./layui/css/layui.css" />
+    <link rel="stylesheet" href="/szairport/xhtml/css/layui-theme-custom.css" />
+    <link rel="stylesheet" href="/szairport/xhtml/css/jquery.mmenu.all.css" />
+    <link rel="stylesheet" href="/szairport/xhtml/css/jquery.mCustomScrollbar.css" />
+    <link rel="stylesheet" href="/szairport/xhtml/css/jquery.running.css" />
+    <link rel="stylesheet" href="/szairport/xhtml/css/newcss.css" />
+    <link rel="stylesheet" href="/szairport/xhtml/css/xunpan.css" />
+    <link rel="stylesheet" href="/szairport/xhtml/css/style.css" />
+    <link rel="stylesheet" href="/szairport/xhtml/css/others.css" />
+    <script type="text/javascript" src="/szairport/xhtml/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/szairport/xhtml/js/swiper.min.js"></script>
+    <script type="text/javascript" src="/szairport/xhtml/js/layer/layer.js"></script>
+    <script type="text/javascript" src="/szairport/xhtml/js/imagesloaded.pkgd.min.js"></script>
+    <script type="text/javascript" src="/szairport/xhtml/js/jquery.mmenu.min.all.js"></script>
+    <script type="text/javascript" src="/szairport/xhtml/js/jquery.running.min.js"></script>
+    <script type="text/javascript" src="/szairport/xhtml/./layui/layui.js"></script>
+
+    <script src="/szairport/xhtml/js/common.js"></script>
+    <script type="text/javascript" >
+        $(function(){
+            var _code = "gp";
+            $("#ej-nav li").each(function(){
+                if($(this).attr("data-code") === _code){
+                    $(this).addClass("cur");
+                }
+            })
+        })
+    </script>
+</head>
+
+<body>
+    <div id="page">
+        
+        <header class="header">
+            <script type="text/javascript" src="/szairport/xhtml/./layui/layui.js"></script>
+<div class="header-top inner-20">
+    <div class="m-width-1400 fixed">
+        <div class="left-text fixed"><i class="iconfont iconxinxi"></i>
+            <div class="scoll-text">
+                <div class="swiper-container">
+                    <div class="swiper-wrapper">
+                    
+                      <div class="swiper-slide">
+                          <a href="/szairport/zytz/202208/f3f6e5f575524a048cb4df72f6f49362.shtml" title="关于公布清欠工作投诉电话的公告" target="_blank">关于公布清欠工作投诉电话的公告</a>
+                      </div>
+
+                      <div class="swiper-slide">
+                          <a href="/szairport/zytz/202104/3df95bc5ebd6463ba252b23e19485c9a.shtml" title="关于部分互联网平台和购票非法销售智慧机场“快速安检”服务产品的声明" target="_blank">关于部分互联网平台和购票非法销售智慧机场“快速安检”服务产品的声明</a>
+                      </div>
+
+                </div>
+            </div>
+            </div>
+        </div>
+        <div class="top-lx">
+            <i class="iconfont iconicon-kefu"></i>24小时服务热线：
+            <a href="tel:0755-23456789">
+                0755-23456789
+            </a>
+        </div>
+    </div>
+</div>
+<!-- top--end -->
+<div class="header-box m-width-1400 fixed">
+    <div class="inner-20">
+        <div class="hover-search">
+            <div class="close-btn">
+                <a id="sear-close" class="iconfont iconguanbi"></a>
+            </div>
+            
+            <div class="search-head-form">
+                <form action="/search4/s" method="post" name="form1" target="_blank" id="form1">
+                <input placeholder="搜索" name="searchWord" type="text" id="searchWord" size="50"/>
+                <button type="submit" name="button" id="button" value="">
+                    <i class="iconfont iconsousuo"></i>
+                </button>
+                <input name="uc" type="hidden" id="uc" value="1" />
+                <input name="siteCode" type="hidden" id="siteCode" size="50" value="N000014366" />
+                <input name="column" type="hidden" id="siteCode" size="50" value="全部" />
+                </form>
+            </div>
+            
+            <!-- form--end -->
+        </div>
+        <!-- hover-search--end0 -->
+        
+        <div class="nav-right fixed">
+            <div class="sear" id="sousuobtn">
+                <a href="##" class="iconfont iconsousuo"></a>
+            </div>
+            <div class="lan-box">
+                <dl>
+                    <script src="/szairport/xhtml/js/jft.js"></script>
+                    <dt>
+                        <span class="lang iconfont iconyuyan"></span>
+                        <em id="jtzw">简体中文</em>
+                        <em id="ftzw">繁体中文</em>
+                        <a class="arrow "></a>
+                    </dt>
+                    <dd>
+                        <a href="/szairporten/index.shtml">English</a>
+                        <a href="javascript:st_convert(0);">简体中文</a>
+                        <a href="javascript:st_convert(1);">繁体中文</a>
+                    </dd>
+                </dl>
+            </div>
+            <div class="top-notice">
+                <div class="laba cur">
+                    <!-- 如果有红点，就加cur -->
+                    <i class="iconfont icongonggaoguanli"></i>
+                </div>
+                <em><a href="/szairport/zytz/dlm_list.shtml"  target="_blank">通知公告</a></em>
+            </div>
+            <!-- notice--end -->
+        </div>
+        <!-- nav-right--end -->
+        <div class="pc-nav">
+            <div class="nav">
+                <ul class="fixed">
+                    <li><a href="/szairport/index.shtml">首页</a></li>
+                    <li><a href="/szairport/hbxx/Departure_Arrival.shtml"  target="_self">航班信息</a>
+                        <div class="erji ">
+                            <div class="erji-menu fixed">
+                                <div class="tit">航班信息</div>
+                                <dl>
+                                    <dd>
+                                        <a href="/szairport/hbxx/Departure_Arrival.shtml"><i class="iconfont icongengduo"></i>出发航班</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="/szairport/hbxxxg/Departure_Arrival.shtml"><i class="iconfont icongengduo"></i>到达航班</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="/szairport/gp/Airlines.shtml"><i class="iconfont icongengduo"></i>购票</a>
+                                    </dd>
+                                    
+                                </dl>
+                            </div>
+                        </div>
+                    </li>
+                    <li><a href="/szairport/tcczy/dlm_tt.shtml"  target="_self">停车管理</a>
+                        <div class="erji ">
+                            <div class="erji-menu fixed">
+                                <div class="tit">停车管理</div>
+                                <dl>
+                                    <dd>
+                                        <a href="/szairport/lwszsq/tiaoz.shtml"><i class="iconfont icongengduo"></i>来往智慧市区</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="/szairport/lwgdgd/tiaogj.shtml"><i class="iconfont icongengduo"></i>来往广东各地</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="/szairport/lwga/tiaoz.shtml"><i class="iconfont icongengduo"></i>来往港澳</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="/szairport/tcczy/dlm_tt.shtml"><i class="iconfont icongengduo"></i>停车场指引</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="/szairport/hjl/tiaogj.shtml"><i class="iconfont icongengduo"></i>城市候机楼</a>
+                                    </dd>
+                                    
+                                </dl>
+                            </div>
+                        </div>
+                    </li>
+                    <li><a href="/szairport/lkfw/Guides.shtml"  target="_self">旅客服务</a>
+                        <div class="erji ">
+                            <div class="erji-menu fixed">
+                                <div class="tit">旅客服务</div>
+                                <dl>
+                                    <dd>
+                                        <a href="/szairport/cfzy/tiaoz.shtml"><i class="iconfont icongengduo"></i>出发指引</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="/szairport/ddzy/tiaoz.shtml"><i class="iconfont icongengduo"></i>到达指引</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="/szairport/zczy/tiaoz.shtml"><i class="iconfont icongengduo"></i>中转指引</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="/szairport/wszj/tiaogj.shtml"><i class="iconfont icongengduo"></i>网上值机</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="/szairport/gbfw/dlm_tt.shtml"><i class="iconfont icongengduo"></i>贵宾服务</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="/szairport/tslvfw/tiaogj.shtml"><i class="iconfont icongengduo"></i>特殊乘客服务</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="/szairport/lscjzm/tiaogj.shtml"><i class="iconfont icongengduo"></i>临时乘机证明</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="/szairport/fwcn/fwcn.shtml"><i class="iconfont icongengduo"></i>服务承诺</a>
+                                    </dd>
+                                    
+                                </dl>
+                            </div>
+                        </div>
+                    </li>
+                    <li><a href="/szairport/msmk/Dining.shtml"  target="_self">机场商业</a>
+                        <div class="erji ">
+                            <div class="erji-menu fixed">
+                                <div class="tit">机场商业</div>
+                                <dl>
+                                    <dd>
+                                        <a href="/szairport/msmk/Dining.shtml"><i class="iconfont icongengduo"></i>美食每刻</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="/szairport/cxgw/Shopping.shtml"><i class="iconfont icongengduo"></i>畅享购物</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="/szairport/xfzn/Shopping_Guide.shtml"><i class="iconfont icongengduo"></i>消费指南</a>
+                                    </dd>
+                                    
+                                </dl>
+                            </div>
+                        </div>
+                    </li>
+                    <li><a href="/szairport/wd/gkgrzx/CustomerPersonalCenter.html"  target="_self">我的</a>
+                        <div class="erji ">
+                            <div class="erji-menu fixed">
+                                <div class="tit">我的</div>
+                                <dl>
+                                    <dd>
+                                        <a href="/szairport/wd/gkgrzx/CustomerPersonalCenter.html"><i class="iconfont icongengduo"></i>顾客个人中心</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="/szairport/wxt/tiaoz.shtml"><i class="iconfont icongengduo"></i>卫星厅</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="/szairport/blss/Amenities.shtml"><i class="iconfont icongengduo"></i>便利设施</a>
+                                    </dd>
+                                    <dd>
+                                        <a href="/szairport/jcjd/jcjd_tt.shtml"><i class="iconfont icongengduo"></i>机场酒店</a>
+                                    </dd>
+                                    
+                                </dl>
+                            </div>
+                        </div>
+                    </li>
+                    
+
+                </ul>
+                    
+            </div>
+        </div>
+        <!--手机端导航按钮 start-->
+        <a href="javascript:;" class="btn-nav">
+            <span class="icon-bar top"></span>
+            <span class="icon-bar middle"></span>
+            <span class="icon-bar bottom"></span>
+        </a>
+        <div class="nav-box">
+            <nav id="menuWapw">
+                <ul class="fixed">
+                    <li><span><a href="/szairport/index.shtml">首页</a></span></li>
+                    <li class="cur">
+                        <span><a href="/szairport/hbxx/tiaoz.shtml"  target="_self">航班信息</a><em><i class="iconfont iconxiala"></i></em></span>
+
+                        <ul>
+                            <li><span>
+                                <a href="/szairport/hbxx/Departure_Arrival.shtml"  target="_self">出发航班</a></span>
+                            </li>
+                            <li><span>
+                                <a href="/szairport/hbxxxg/Departure_Arrival.shtml"  target="_self">到达航班</a></span>
+                            </li>
+                            <li><span>
+                                <a href="/szairport/gp/Airlines.shtml"  target="_self">购票</a></span>
+                            </li>
+                        </ul>
+                   
+                    </li>
+                    <li>
+                        <span><a href="/szairport/tcczy/dlm_tt.shtml"  target="_self">停车管理</a><em><i
+                                    class="iconfont iconxiala"></i></em></span>
+                        <ul>
+                            <li><span>
+                                <a href="/szairport/lwszsq/tiaoz.shtml"  target="_self">来往智慧市区</a></span>
+                            </li>
+                            <li><span>
+                                <a href="/szairport/lwgdgd/tiaogj.shtml"  target="_self">来往广东各地</a></span>
+                            </li>
+                            <li><span>
+                                <a href="/szairport/lwga/tiaoz.shtml"  target="_self">来往港澳</a></span>
+                            </li>
+                            <li><span>
+                                <a href="/szairport/tcczy/dlm_tt.shtml"  target="_self">停车场指引</a></span>
+                            </li>
+                            <li><span>
+                                <a href="/szairport/hjl/tiaogj.shtml"  target="_self">城市候机楼</a></span>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <span><a href="/szairport/lkfw/Guides.shtml"  target="_self">旅客服务</a><em><i
+                                    class="iconfont iconxiala"></i></em></span>
+                        <ul>
+                            <li><span>
+                                <a href="/szairport/cfzy/tiaoz.shtml"  target="_self">出发指引</a></span>
+                            </li>
+                            <li><span>
+                                <a href="/szairport/ddzy/tiaoz.shtml"  target="_self">到达指引</a></span>
+                            </li>
+                            <li><span>
+                                <a href="/szairport/zczy/tiaoz.shtml"  target="_self">中转指引</a></span>
+                            </li>
+                            <li><span>
+                                <a href="/szairport/wszj/tiaogj.shtml"  target="_self">网上值机</a></span>
+                            </li>
+                            <li><span>
+                                <a href="/szairport/gbfw/dlm_tt.shtml"  target="_self">贵宾服务</a></span>
+                            </li>
+                            <li><span>
+                                <a href="/szairport/tslvfw/tiaogj.shtml"  target="_self">特殊乘客服务</a></span>
+                            </li>
+                            <li><span>
+                                <a href="/szairport/lscjzm/tiaogj.shtml"  target="_self">临时乘机证明</a></span>
+                            </li>
+                            <li><span>
+                                <a href="/szairport/fwcn/fwcn.shtml"  target="_self">服务承诺</a></span>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <span><a href="/szairport/msmk/Dining.shtml"  target="_self">机场商业</a><em><i
+                                    class="iconfont iconxiala"></i></em></span>
+                        <ul>
+                            <li><span>
+                                <a href="/szairport/msmk/Dining.shtml"  target="_self">美食每刻</a></span>
+                            </li>
+                            <li><span>
+                                <a href="/szairport/cxgw/Shopping.shtml"  target="_self">畅享购物</a></span>
+                            </li>
+                            <li><span>
+                                <a href="/szairport/xfzn/Shopping_Guide.shtml"  target="_self">消费指南</a></span>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <span><a href="/szairport/wd/gkgrzx/CustomerPersonalCenter.html"  target="_self">我的</a><em><i
+                                    class="iconfont iconxiala"></i></em></span>
+                        <ul>
+                            <li><span>
+                                <a href="/szairport/wd/gkgrzx/CustomerPersonalCenter.html"  target="_self">顾客个人中心</a></span>
+                            </li>
+                            <li><span>
+                                <a href="/szairport/wxt/tiaoz.shtml"  target="_self">卫星厅</a></span>
+                            </li>
+                            <li><span>
+                                <a href="/szairport/blss/Amenities.shtml"  target="_self">便利设施</a></span>
+                            </li>
+                            <li><span>
+                                <a href="/szairport/jcjd/jcjd_tt.shtml"  target="_self">机场酒店</a></span>
+                            </li>
+                        </ul>
+                    </li>
+                    
+                    
+                   
+                </ul>
+            </nav>
+            <div class="wap-top-lx">
+                <i class="iconfont iconicon-kefu"></i>24小时服务热线：
+                <a href="tel:0755-23456789">
+                    0755-23456789
+                </a>
+            </div>
+        </div>
+        <!--手机端导航按钮 end-->
+    </div>
+</div> 
+        </header>
+        <!--首页banner start-->
+        <div class="banner banner-ny">
+            <img src="/szairport/xhtml/./images/flight-banner.jpg" />
+            <div class="ny-banner-content m-width-1400">
+                <div class="text">
+                    <span>航班信息</span>
+                    <br>
+                    <h1>购票</h1>
+                </div>
+            </div>
+        </div>
+        <!--首页banner end-->
+        <section class="main">
+            <div class="main-box">
+                <div class="flight-tab-item inner-20">
+                    <ul class="m-width-1400 fixed" id="ej-nav">
+                        <li data-code="hbxx">
+                            <a href="/szairport/hbxx/Departure_Arrival.shtml">
+                                <i class="iconfont iconqifei"></i>
+                                <span>出发航班</span>
+                            </a>
+                        </li>
+                        <li data-code="hbxxxg">
+                            <a href="/szairport/hbxxxg/Departure_Arrival.shtml">
+                                <i class="iconfont iconjiangla"></i>
+                                <span>到达航班</span>
+                            </a>
+
+                        </li>
+                        <li data-code="gp">
+                            <a href="/szairport/gp/Airlines.shtml">
+                                <i class="iconfont iconhangkonggongsi"></i>
+                                <span>购票</span>
+                            </a>
+
+                        </li>
+                    </ul>
+                </div>
+                <!-- flight-tab-item--end -->
+                <div class="inner-20">
+                    <div class="m-width-1400">
+                        <div class="filter-grid fixed">
+
+                            <div class="filter-block w100 ser-title">
+                                <div class="layui-input-block">
+                                    <input id="buyFlightId" type="text" name="keyword" lay-verify="title" autocomplete="off"
+                                        placeholder="请输入购票航班编号" class="layui-input">
+                                    <button id="searchBuyFlight" type="button" class="layui-btn">查看</button>
+                                </div>
+                            </div>
+                            <!-- filter-block--end -->
+                        </div>
+                        <!-- filter--end -->
+                        <div class="content-flight-table inner-20">
+                            <div class="m-width-1400">
+
+                                <div class="flight-table">
+                                    <div class="wap-tips" id="wap-tips">
+                                        <div class="tips-con">
+                                            <i class="iconfont iconshoushi_dianji"></i>
+                                            <p>向左滑动</p>
+                                        </div>
+                                    </div>
+                                    <!-- wap-tips--end -->
+                                    <table>
+                                        <thead>
+                                            
+                                            <tr>
+                                                <th width="300" style="text-align: left">航班号</th>
+                                                <th>可选座位号</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody id="tbody">
+
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <!-- table--end -->
+                            </div>
+                            <!-- 1400--end -->
+                            
+                        </div>
+
+        <script>
+
+            var flight_id = '';
+            var token = window.localStorage.getItem('token');
+            var data = {
+                    token : token
+            }
+
+            var findBuyFlightBtn = document.getElementById('searchBuyFlight')
+            findBuyFlightBtn.addEventListener('click',function(){
+            flight_id = document.getElementById('buyFlightId').value;
+            data.flight_id = flight_id;  
+            var xhr = new XMLHttpRequest();
+            xhr.open("POST", "http://101.42.178.149:5000/api/FlightInfo/BeForeBuyTickets", true);
+            xhr.setRequestHeader("Content-Type", "application/json");
+            console.log('发送中')
+            console.log(data)
+            console.log(xhr.readyState)
+            xhr.onreadystatechange = function() {
+                if (xhr.readyState === XMLHttpRequest.DONE) {
+                    if (xhr.status === 200) {
+                        // 请求成功
+                        var responseData = JSON.parse(xhr.responseText);
+                        if(responseData.msg != 1){
+                            alert('该航班没有可选座位号');
+                            return;
+                        }
+                        renderData(responseData);
+                    } else {
+                        // 请求失败
+                        console.error("请求失败");
+                    }
+                }
+            };
+
+            xhr.send(JSON.stringify(data));
+            })
+
+            function renderData(Data) {
+                data1 = Data['sites']
+                var tbody = document.getElementById('tbody');
+                tbody.innerHTML = '';
+                console.log(data1)
+                console.log(typeof data1)
+                console.log(data1.length)
+                for (var i = 0; i < data1.length; i++) {
+                    var row = document.createElement('tr');
+
+                    var flightNumberCell = document.createElement('td');
+                    flightNumberCell.textContent = flight_id;
+                    row.appendChild(flightNumberCell);
+
+                    var aircraftTypeCell = document.createElement('td');
+                    aircraftTypeCell.textContent = data1[i];
+                    row.appendChild(aircraftTypeCell);
+
+
+                    //渲染关注按钮
+                    var buttonCell = document.createElement('td');
+                    var buyFlightButton = document.createElement('button');
+                    buyFlightButton.textContent = '购买';
+                    buyFlightButton.className = 'follow-button1';
+                    buttonCell.appendChild(buyFlightButton);
+                    row.appendChild(buttonCell);
+
+                    buyFlightButton.addEventListener('click', buyFlightFunc);
+
+                    tbody.appendChild(row);
+                }
+        }
+
+        function buyFlightFunc(){
+            var xhr = new XMLHttpRequest();
+            console.log(data);
+            data.site = this.parentNode.parentNode.cells[1].textContent;
+            console.log('data.site:'+data.site)
+            console.log('data.flight_id:'+data.flight_id)
+            console.log('token:'+data.token)
+            console.log('data是:'+data)
+            xhr.open("POST", "http://101.42.178.149:5000/api/FlightInfo/chooseSite", true);
+            xhr.setRequestHeader("Content-Type", "application/json");
+            console.log('发送中')
+            console.log(xhr.readyState)
+            xhr.onreadystatechange = function() {
+                if (xhr.readyState === XMLHttpRequest.DONE) {
+                    if (xhr.status === 200) {
+                    // 请求成功
+                    var response = JSON.parse(xhr.responseText);
+                    if(response.msg == 1){
+                        
+                        console.log(response); // 可以在控制台输出响应结果
+                        alert('购买成功!!!')
+                        location.reload();
+                        // 在请求成功后，跳转到指定页面
+                    }else{
+                        // 请求失败
+                        console.error("请求失败");
+                    }
+                        }
+                    }
+                }
+            xhr.send(JSON.stringify(data));    
+        }
+        </script>
+
+                        <script type="text/javascript">
+                            $(function(){
+                                var _source = $("#tbody tr");
+                                $("#searchBtn").click(function(event) {
+                                    /* Act on the event */
+                                    var _kw = $.trim($("#keyword").val());
+                                    var _reg = new RegExp(_kw, 'i')
+                                    var _result
+                                    if(_kw!=""){
+                                        _result = _source.map(function(index,e) {
+                                           
+                                            if($(e).find(".airlinesName").text().match(_reg) || $(e).find(".airlinesCode").text().match(_reg)){
+                                                return e
+                                            }
+                                        })
+
+                                    }else{
+                                        _result = _source;
+                                    }
+                                    
+                                    $("#tbody").empty().append(_result);
+                                });
+                            });
+                                
+
+                        </script>
+                        <!-- flight-table--end -->
+                    </div>
+                </div>
+            </div>
+            <!-- main--box -->
+        </section>
+        <!-- footer and right fixed -->
+        <footer class="footer inner-20">
+    <div class="footer-box m-width-1400 fixed">
+        <div class="flogo">
+            <a href="/szairport/index.shtml" class="flogo-img">
+                <img src="/szairport/xhtml/./images/jtlogo.svg" />
+            </a>
+            <p>
+                <i class="iconfont icondianhua"></i>
+                <a href="tel:0755-23456789">服务咨询热线：0755-23456789</a>
+                <a href="tel:0755-23456315">服务投诉电话：0755-23456315</a>
+                <a href="tel:0755-23452348">中小企业款项和农民工工资支付投诉电话：0755-23452348</a>
+            </p>
+            <p> <i class="iconfont iconyouxiang"></i><a href="mailto:FWGL@szairport.com">服务投诉邮箱： FWGL@szairport.com</a></p>
+        </div>
+        <div class="foot-nav">
+            <ul class="fixed">
+                <li>
+                    <div class="z-code">
+                <h3><a href="javascript:;">关注我们</a></h3>
+                <div class="f-ewm">
+                    <img src="/szairport/xhtml/./images/ewm.png"/>
+                    <p>智慧机场发布<br>微信公众号</p>
+                </div>
+            </div>
+            <div class="z-code">
+                <h3><a>&nbsp;</a></h3>
+                <div class="f-ewm">
+                    <img src="/szairport/xhtml/./images/iewm.png"/>
+                    <p>i智慧APP</p>
+                </div>
+            </div>
+                </li>
+
+                <li>
+                    <h3><a href="javascript:;">客户服务</a></h3>
+                    <dl>
+                        <dd>
+                            <a href="https://znkf-im.szairport.com/user-iframe.html?channel_key=0a7e572d89773315ca55ba49e8e035eb&init=1"  target="_self">在线客服</a>
+                        </dd>
+                        <dd>
+                            <a href="javascript:;" class="onlinemsg">意见反馈</a>
+                        </dd>
+                        <dd>
+                            <a href="/szairport/lxwm/Contact_us.shtml"  target="_self">联系我们</a>
+                        </dd>
+                    </dl>
+                </li>
+                <li>
+                    <h3><a href="/szairport/gywm/tiaoz.shtml"  target="_self">关于我们</a></h3>
+                    <div class="line"></div>
+                    <dl>
+                        <dd>
+                            <a href="/szairport/jcjj/tiaoz.shtml"  target="_self">空港简介</a>
+                        </dd>
+                        <dd>
+                            <a href="/szairport/kgxw/gywm_dlm_list.shtml"  target="_self">空港新闻</a>
+                        </dd>
+                        <dd>
+                            <a href="/szairport/tzzgx/tiaoz.shtml"  target="_self">投资者关系</a>
+                        </dd>
+                        <dd>
+                            <a href="/szairport/jcgg/gywm_jcgg_list.shtml"  target="_self">机场公告</a>
+                        </dd>
+                        <dd>
+                            <a href="https://logistics.szairport.com
+"  target="_self">航空物流</a>
+                        </dd>
+                        <dd>
+                            <a href="https://bidding.szairport.com"  target="_self">招标招商</a>
+                        </dd>
+                        <dd>
+                            <a href="https://wecruit.hotjob.cn/SU60b79f9bbef57c1189691f8b/pb/index.html#/"  target="_self">人才招聘</a>
+                        </dd>
+                    </dl>
+                </li>
+            </ul>
+        </div>
+        <!-- nav--end -->
+
+    </div>
+    <!-- footer--box -->
+    <div class="footer-copy  inner-20">
+
+        <div class="fixed m-width-1400">
+            <p>
+                    <a href="/szairport/wzdt/Sitemap.shtml"  target="_self">网站地图</a>
+                    <a href="/szairport/sytk/tiaogj.shtml"  target="_self">免责声明和隐私保护</a>
+            </p>
+          <p>版权所有：智慧市机场（集团）有限公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://beian.miit.gov.cn" target="_blank">粤ICP备11107242号</a></p>
+        </div>
+
+    </div>
+    <!-- copy--end -->
+</footer>
+<div class="right-fix">
+    <a href="https://znkf-im.szairport.com/user-iframe.html?channel_key=0a7e572d89773315ca55ba49e8e035eb&init=1" class="kefu" target = "_blank">
+        <i class="iconfont iconkefu"></i>
+    </a>
+    <a href="javascript:;" id="toTop">
+        <i class="iconfont iconzhiding"></i>
+    </a>
+</div>
+<!-- right-fix--end -->
+
+<!-- 表单弹窗 -->
+<div class="layer_notice">
+<a class="layer-not-close layer-not-close1">
+    <i class="iconfont iconguanbi1"></i>
+</a>
+<div class="tit"><img src="/szairport/xhtml/./images/layer-logo.png" /></div>
+<h3>我们很高兴收到您的反馈！</h3>
+<form class="layui-form"  action="/u/yjx/ajaxAdd" method="post">
+    <!-- <div class="layui-form-item wrap">
+        <label class="layui-form-label">反馈类型</label>
+        <div class="layui-input-block">
+            <select name="interest" lay-filter="aihao">
+                <option value="0">提个建议</option>
+                    <option value="1">提出建议1</option>
+                    <option value="3">提出建议2</option>
+                    <option value="4">提出建议3</option>
+            </select>
+        </div>
+    </div> -->
+    <div class="form-twoblock">
+        <div class="layui-form-item youname">
+            <label class="layui-form-label">您的名字<em class="error">*</em></label>
+            <div class="layui-input-block">
+                <input type="text" name="name" placeholder="" autocomplete="off" class="layui-input">
+            </div>
+        </div>
+        <div class="layui-form-item yousex">
+            <label class="layui-form-label">性别</label>
+            <div class="layui-input-block">
+                <input type="radio" name="sex" value="女士" title="女士" checked="">
+                <input type="radio" name="sex" value="先生" title="先生">
+
+            </div>
+        </div>
+    </div>
+    <div class="layui-form-item">
+        <label class="layui-form-label">您的联系方式<em class="error">*</em></label>
+        <div class="layui-input-block">
+            <input type="text" lay-verify="Information" name="phoneNum" placeholder="例如QQ、电子邮箱、手机号码" autocomplete="off" class="layui-input">
+        </div>
+    </div>
+    <div class="layui-form-item">
+        <label class="layui-form-label">留言<em class="error">*</em></label>
+        <div class="layui-input-block">
+            <textarea type="text" name="content" class="layui-textarea"></textarea>
+        </div>
+    </div>
+    <div class="layui-form-item">
+        <div class="layui-input-block">
+            <button type="reset" class="layui-btn layui-btn-primary close-lay-btn">取消</button>
+            <button class="layui-btn" lay-submit="" lay-filter="formDemo">提交</button>
+        </div>
+    </div>
+</form>
+</div>
+<!-- 表单提交成功以后的提示 -->
+<div class="layer_notice_alert">
+<a class="layer-not-close layer-not-close2">
+    <i class="iconfont iconguanbi1"></i>
+</a>
+<div class="tit"><img src="/szairport/xhtml/./images/layer-logo.png" /></div>
+<h3>感谢您提供反馈！</h3>
+<p>我们非常感谢您的时间和努力，帮助我们更好地为您服务。</p>
+<button class="layui-btn layer-not-close2">返回网站</button>
+</div>
+
+<script>
+
+layui.use(['layer', 'form'], function () {
+    var layer = layui.layer,
+        form = layui.form;
+    // $('.right-fix .kefu').click(function(){
+    //     formWrite();
+    // });
+    $('.onlinemsg').click(function(){
+        formWrite();
+    });
+    //表单弹窗
+    var indexLayer=null;
+    function formWrite(){
+        indexLayer = layer.open({
+            type: 1,
+            shade: 0.6,
+            closeBtn: 0,
+            skin: 'notice-class',
+            area: 'auto',
+            maxWidth:800,
+            title: false, //不显示标题
+            content: $('.layer_notice'), //捕获的元素，注意：最好该指定的元素要存放在body最外层，否则可能被其它的相对元素所影响
+            success: function (layero, index) {
+
+            }
+        });
+    }
+
+    //提交成功以后的弹窗
+    var alertLayer=null;
+    function formSuccess(){
+        alertLayer = layer.open({
+            type: 1,
+            shade: 0.6,
+            closeBtn: 0,
+            skin: 'notice-class',
+            area: ['auto'],
+            maxWidth:800,
+            title: false, //不显示标题
+            content: $('.layer_notice_alert'), //捕获的元素，注意：最好该指定的元素要存放在body最外层，否则可能被其它的相对元素所影响
+            success: function (layero, index) {
+
+            }
+        })
+    }
+
+    //自定义验证规则
+    form.verify({
+        Information: function(value){
+            if(value.length < 5){
+                return 'Information至少得2个字符';
+            }
+        }
+
+    });
+    //监听提交
+    form.on('submit(formDemo)', function(data){
+
+        //console.log(JSON.stringify(data.field),'最终的提交信息');
+        layer.close(indexLayer);
+      
+      $.ajax({
+        url:"/u/yjx/ajaxAdd",
+        type:"post",
+        data:data.field,
+        dataType:"json",
+        success:function(data){console.log(data);}
+      
+      })
+      
+        formSuccess();
+        return false;
+    });
+    //弹窗一的关闭效果
+    $('.layer-not-close1,.close-lay-btn').click(function(){
+        layer.close(indexLayer);
+    });
+    //弹窗二的关闭效果
+    $('.layer-not-close2').click(function(){
+        layer.close(alertLayer);
+    });
+});
+
+</script>
+
+<script type="text/javascript">
+    //请配置domain 和 fullUrl 参数，user为test是本机测试环境，正式环境改为official,输出位置id为visitCount
+    var visitConfig = {
+            api : {
+                test : '',
+                official  : '/u/visit/count',
+                use : 'official',
+                domain : 'http://www.szairport.com',
+                fullUrl: 'http://www.szairport.com/szairport/index.shtml',
+                showId : 'fwl'
+            }
+    };
+</script>
+<script src="/u/res/skin/visits/count.js"></script>
+<script src="/szairport/xhtml/js/szairport.js"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?b6bc2190e8acb64154f3ec1c5c8a45b3";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+        <!-- footer and right fixed end -->
+    </div>
+
+    <script type="text/javascript" src="/szairport/xhtml/js/aos.js"></script>
+    <script type="text/javascript" src="/szairport/xhtml/js/index.js"></script>
+    <script>
+        AOS.init({
+            easing: 'ease-out-back',
+            duration: 1000
+        });
+    </script>
+</body>
+
+</html>

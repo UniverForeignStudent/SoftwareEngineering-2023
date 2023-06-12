@@ -1,0 +1,58 @@
+.header-ny .top-notice a{color: #333;}
+.header-cfff .top-notice a{color: #333;}
+.header-ny .logo img{display: none;}
+.header-ny .logo .fix-logo{display: block;}
+@media only screen and (max-width: 1150px) {
+	.header-ny .logo .fix-logo{display: none;}
+	.header-ny .logo .wap-logo{display: block;}
+}
+
+.head-sear-grid .sear-block .weahter-grid img {
+    width: 20px;
+    height: 20px;
+}
+#ftzw{display: none;}
+.shop-mendian-detail .text-right{min-height: 500px;}
+
+.top-notice .laba.cur::after{display:none;}
+
+.page-box .page-inner .current{
+	ont-size: 18px;
+    color: #97979B;
+    margin: 0 5px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    justify-content: center;
+    border: 1px solid #D5D5D5;
+    border-radius: 6px;
+}
+
+/*商家地图先隐藏*/
+.tran-tab-item ul .right-slot{display: none;}
+.shop-mendian-detail .shopmap{display: none;}
+
+.z-tran-table.type1 td:nth-last-of-type(1), .tran-table.type1 th:nth-last-of-type(1) {
+            border-right: 1px solid #DADADB;
+}
+
+@media only screen and (max-width: 480px) {
+	.page-box .page-inner a {
+		
+		font-size: 14px;
+		width: 30px;
+		height: 30px;
+		line-height: 30px;
+
+	}
+	.page-box .page-inner .current {
+		width: 30px;
+		height: 30px;
+		line-height: 30px;
+	}
+	.lan-box em{width: 0;height: 0;overflow: hidden;padding:0;}
+}
+
+
+
+

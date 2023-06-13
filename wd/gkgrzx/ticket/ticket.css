@@ -1,0 +1,218 @@
+/* body {
+    background-color: #f5fff9;
+    margin: 0;
+    padding: 120px 15px;
+    text-align: end;
+  }
+   */
+   .container {
+    display: grid;
+    text-align: end;
+  }
+  
+  .ticket {
+    background: linear-gradient(to right, #eff5f0, #f4f80e);
+    border-radius: 50px;
+    box-shadow: 0px 0px 35px -25px;
+    display: grid;
+    grid-template-columns: 28% 42% 30%;
+    height: 300px;
+    margin: auto;
+    width: 750px;
+    text-align: end;
+    margin-bottom: 50px;
+  }
+  
+  /* start ticket-left*/
+  .ticket-left {
+    /* background: linear-gradient(to right,#b52137 ,#ddff47); */
+    border-radius: 50px 0 0 50px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 1fr 1fr 1fr;
+    padding-right: 10px;
+    text-align: end;
+  }
+
+  .ticket-middle {
+    /* background: linear-gradient(to right,#acc92c ,#ddff47); */
+    border-right: 1.7px dotted black;
+    clip-path: polygon(30% 0, 100% 0, 100% 100%, 0 100%);
+    display: grid;
+    grid-template-columns: 20% 35% 45%;
+    grid-template-rows: 100px 100px 67px 28px;
+    padding-bottom: 5px;
+    padding-right: 30px;
+    text-align: end;
+  }
+  
+  .corner-seat-container {
+    background: #f7f7f7;
+    border-radius: 50px 0 50px 0;
+    height: 100%;
+    padding-right: 25px;
+    text-align: end;
+  }
+  
+  .airplane {
+    font-size: 70px;
+    line-height: 100px;
+  }
+
+  .airplane-container {
+    text-align: end;
+  }
+  
+  .departure-time {
+    grid-column: 1 / span 2;
+    grid-row: 2;
+    text-align: end;
+    margin-left: 30px;
+  }
+  
+  .departing {
+    grid-column: 1 / span 2;
+    grid-row: 3;
+    text-align: end;
+  }
+  /*end ticket-left*/
+
+  img {
+    width: 60px;
+    margin-top: 20px;
+    text-align: end;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #d3b779;
+  }
+  
+  .item {
+    color: #a3a4a4;
+    font-family: "Average Sans", sans-serif;
+    font-size: 14px;
+    margin: 20px auto 0 auto;
+    text-transform: uppercase;
+    text-align: end;
+  }
+  
+  .lgdetail {
+    color: #616161;
+    font-family: "Average Sans", sans-serif;
+    font-size: 32px;
+    text-transform: uppercase;
+    text-align: end;
+  }
+  
+  .smdetail {
+    color: #616161;
+    font-family: "Average Sans", sans-serif;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-align: end;
+  }
+  
+
+  
+  /*start ticket-middle*/
+
+  
+  .flight {
+    text-align: end;
+  }
+
+  .passenger-name {
+    grid-column: 1 / span 3;
+    text-align: end;
+  }
+  
+  .gate {
+    grid-column: 2;
+    text-align: end;
+  }
+  
+  .destination {
+    grid-column: 1 / span 2;
+    text-align: end;
+  }
+  
+  .serial {
+    background-color: #fff;
+    font-family: "Cutive Mono";
+    grid-column: 1 / span 3;
+    line-height: 21px;
+    margin-left: 30px;
+    margin-top: 7px;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  /*end ticket-middle*/
+  
+  /*start ticket-right*/
+  .ticket-right {
+    display: grid;
+    grid-template-columns: 65% 35%;
+    grid-template-rows: 45px 1fr 1fr 1fr 1fr 28px;
+    text-align: end;
+  }
+  
+  .smitem {
+    color: #a3a4a4;
+    font-family: "Average Sans", sans-serif;
+    font-size: 14px;
+    text-transform: uppercase;
+    text-align: end;
+  }
+  
+  .exsmdetail {
+    color: #616161;
+    font-family: "Average Sans", sans-serif;
+    font-size: 17px;
+    /* text-transform: ; */
+    text-align: end;
+    text-transform: uppercase;
+  }
+  
+  .stub-flight {
+    grid-row: 2;
+    text-transform: uppercase;
+    text-align: end;
+  }
+  
+  .stub-seat {
+    grid-row: 3;
+    text-transform: uppercase;
+    text-align: end;
+  }
+  
+  .stub-depart {
+    grid-row: 4;
+    text-align: end;
+  }
+  
+  .stub-passenger {
+    grid-row: 5;
+    text-align: end;
+  }
+  
+  .barcode {
+    font-family: "Libre Barcode 39";
+    font-size: 45px;
+    grid-row: 1 / span 6;
+    line-height: 78.75px;
+    text-orientation: mixed;
+    text-align: center;
+    writing-mode: vertical-rl;
+    color:black;
+  }
+  
+  .jl-logo {
+    box-shadow: 0px 0px 9px -2px rgba(0, 0, 0, 0.35);
+    border-radius: 50%;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+  }
+  /*end ticket-right*/
+  
